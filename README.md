@@ -16,10 +16,10 @@
   <img src="screenshots/2-frontier.jpg" width="400">
 </p>
 <p align="center">
-  <img src="screenshots/3-cyber-city.jpg" width="400">
+  <img src="screenshots/3-near-future.jpg" width="400">
   <img src="screenshots/4-mars-colony.jpg" width="400">
 </p>
-<p align="center"><sub>Google Play listing images (Spanish UI, first art direction)</sub></p>
+<p align="center"><sub>Real gameplay captured from the current build (October 2026, Spanish UI)</sub></p>
 
 ## What it is
 
